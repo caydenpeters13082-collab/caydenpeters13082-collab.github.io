@@ -1,6 +1,6 @@
 /* Portfolio styles */
 .content h1 {
-  color: black;
+  color: rgb(230, 55, 12);
 }
 
 #portfolio {
@@ -9,17 +9,17 @@
 }
 
 #portfolio li {
-  background: #fff;
+  background: #ce1717;
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 10px;
 }
 
 #portfolio li:hover {
-  background: #eee;
+  background: #d8d50a;
 }
 
 #portfolio a {
   text-decoration: none;
-  color: #454545;
+  color: #e7ac09;
 }
